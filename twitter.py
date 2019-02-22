@@ -42,7 +42,7 @@ def messenger(message, pic_path, api):
     api.update_with_media(pic_path, message)
 
 
-#check status
+# check status
 def check_status(api):
     hour = api.home_timeline()[0]._json["text"][12:14]
     return hour
