@@ -3,13 +3,14 @@
 from gpiozero import Button
 from gpiozero.pins.pigpio import PiGPIOFactory
 from signal import pause
+from time import sleep
 
 pi_host = '192.168.4.158'
 factory = PiGPIOFactory(host=pi_host)
-button = Button(2, pin_factory=factory)
+red_button = Button(16, pin_factory=factory)
 
 
-def plus_one():
+def plus_one(a):
     a += 1
 
 
@@ -22,6 +23,7 @@ def say_bye():
 a = 0
 
 while True:
-    if button.is_pressed:
+    if red_button.value == 1:
         a += 1
         print(a)
+        sleep(1)
