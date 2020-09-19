@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0a351e9-3440-47fa-857a-d728ac3c2294" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gpio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gpio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/button1.py" beforeDir="false" afterPath="$PROJECT_DIR$/button1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/button2.py" beforeDir="false" afterPath="$PROJECT_DIR$/button2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led1.py" beforeDir="false" afterPath="$PROJECT_DIR$/led1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led2.py" beforeDir="false" afterPath="$PROJECT_DIR$/led2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led3.py" beforeDir="false" afterPath="$PROJECT_DIR$/led3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led4.py" beforeDir="false" afterPath="$PROJECT_DIR$/led4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led5.py" beforeDir="false" afterPath="$PROJECT_DIR$/led5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led6.py" beforeDir="false" afterPath="$PROJECT_DIR$/led6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led7.py" beforeDir="false" afterPath="$PROJECT_DIR$/led7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led_button1.py" beforeDir="false" afterPath="$PROJECT_DIR$/led_button1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led_button2.py" beforeDir="false" afterPath="$PROJECT_DIR$/led_button2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led_button3.py" beforeDir="false" afterPath="$PROJECT_DIR$/led_button3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led_button4.py" beforeDir="false" afterPath="$PROJECT_DIR$/led_button4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/led_button5.py" beforeDir="false" afterPath="$PROJECT_DIR$/led_button5.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="bb86d137-38a9-4fe1-99ff-75a2cd178297" />
+  <component name="ProjectId" id="1hAAY2U07RWRV0W1iJVU5i3oTkr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="gpio" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="gpio" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="gpio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0a351e9-3440-47fa-857a-d728ac3c2294" name="Default Changelist" comment="" />
+      <created>1599443566940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599443566940</updated>
+      <workItem from="1600316371305" duration="1445000" />
+      <workItem from="1600318267067" duration="7655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1151" y="199" key="#Notifications" timestamp="1600310257243">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1151" y="199" key="#Notifications/0.0.2560.1040@0.0.2560.1040" timestamp="1600310257243" />
+    <state x="867" y="262" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600318275390">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="867" y="262" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1600318275390" />
+    <state x="1378" y="270" key="FileChooserDialogImpl" timestamp="1600316516484">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1378" y="270" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1600316516484" />
+    <state x="1099" y="174" key="SettingsEditor" timestamp="1600332463372">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1099" y="174" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1600332463372" />
+    <state x="892" y="190" key="SettingsEditor/0.23.2560.1012@0.23.2560.1012" timestamp="1599626196698" />
+  </component>
+</project>

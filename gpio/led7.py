@@ -1,6 +1,6 @@
 # GPIOZERO_PIN_FACTORY=pigpio PIGPIO_ADDR=192.168.4.158
 
-from gpiozero import RGBLED,Button
+from gpiozero import RGBLED, Button
 from time import sleep
 from signal import pause
 from gpiozero.pins.pigpio import PiGPIOFactory
